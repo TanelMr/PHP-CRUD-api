@@ -1,0 +1,8 @@
+# Default ignored files
+/../../PHP CRUD api /.idea/shelf/
+/../../PHP CRUD api /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../PHP CRUD api /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../PHP CRUD api /.idea/dataSources/
+/../../PHP CRUD api /.idea/dataSources.local.xml
