@@ -15,7 +15,10 @@ class todos
         $this->db = $db;
     }
 
-// GET ALL
+    // GET ROUTE
+
+
+    // GET ALL
     public function getToDos()
     {
         $sqlQuery = "SELECT id, title, completed FROM " . $this->db_table . "";
